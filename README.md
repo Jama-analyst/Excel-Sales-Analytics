@@ -7,12 +7,16 @@
 
     **2.** Conduct a comprehensive comparison between _[Market Performance and Sales Targets](https://github.com/Jama-analyst/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)_
 
-- **Purpose of Sales Analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+- **Purpose of Sales Analytics:**
+- [ ] Empower businesses to monitor and evaluate their sales activities and performance.
 
-- **Importance of Analyzing Sales Data:** Identify sales patterns and track key performance indicators (KPIs).
+- **Importance of Analyzing Sales Data:**
+- [ ] Identify sales patterns and track key performance indicators (KPIs).
 
 - **Role of Reports:**
-  [] Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+ - [ ] Determine effective customer discounts,
+ - [ ] facilitate negotiations with consumers,
+ - [ ] and identify potential business expansion opportunities in promising countries.
 
 
 ## Finance Report :
@@ -23,11 +27,17 @@
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Jama-analyst/Excel-Sales-Analytics/blob/main/Top%205%20Countries.pdf)_, [Division](https://github.com/Jama-analyst/Excel-Sales-Analytics/blob/main/Division%20Report.pdf)_, [Top 10 Products](https://github.com/Jama-analyst/Excel-Sales-Analytics/blob/main/Top%2010%20Products.pdf)_ & [Top 5 and Bottom 5 Products](https://github.com/Jama-analyst/Excel-Sales-Analytics/blob/main/Top%205%20and%20Bottom%205%20products.pdf)
 
-- **Purpose of Sales Analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+- **Purpose of Sales Analytics:**
+- [ ] Evaluation of financial performance,
+- [ ] support decision-making,
+- [ ] and facilitate communication with stakeholders.
 
-- **Importance of Analyzing Finance Data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+- **Importance of Analyzing Finance Data:**
+- [ ] Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
-- **Role of Reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+- **Role of Reports:**
+- [ ] Align financial planning with strategic goals
+- [ ] Instill confidence in the organization's financial outlook.
 
 
 ## Technical & Soft Skills:
