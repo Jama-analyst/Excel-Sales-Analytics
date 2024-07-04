@@ -32,7 +32,7 @@
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Applying basic Business Math and Stats such as Mean, Median, Mode, Variance, Standard Deviation and Correlation.
-- [ ]	Cleaning and Combining data using formulas such as VLOOKUP, XLOOKUP AND INDEX-MATCH
+- [x]	Cleaning and Combining data using formulas such as VLOOKUP, XLOOKUP AND INDEX-MATCH
 - [X]	Data Transformation using Power Query (generating a Date table)
 - [x]	Ability to derive fiscal months and quarters.
 - [x]	Establishing data model relationships with Power Pivot.
