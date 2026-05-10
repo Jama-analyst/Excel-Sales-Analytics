@@ -1,6 +1,5 @@
 ## Sales Report :
 
-
 - **Project objective:** 
 
     **1.** Create a _[Customer Performance Report](https://github.com/Jama-analyst/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
@@ -38,7 +37,6 @@
 - **Role of Reports:**
 - [ ] Align financial planning with strategic goals
 - [ ] Instill confidence in the organization's financial outlook.
-
 
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
